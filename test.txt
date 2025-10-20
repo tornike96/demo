@@ -7,3 +7,6 @@ Line 6
 hello world
 
 Adding new line from feature branch
+Adding one more line
+And again
+How are you my friend.
